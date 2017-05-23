@@ -4,5 +4,7 @@
 int main(void)
 {
 	printf("Star!\n");
+	
+	printf("Star Plus\n");
 	return 0;
 }
